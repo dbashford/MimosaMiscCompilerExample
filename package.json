@@ -1,0 +1,22 @@
+{
+  "name": "mimosa-rr",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbashford/MimosaMiscCompilerExampler",
+  "author": "David Bashford",
+  "description": "Use this to properly manage your .rr files, but really don't use this at all",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/MimosaMiscCompilerExample"
+  },
+  "license": "MIT",
+  "main": "./src",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
